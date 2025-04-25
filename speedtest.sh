@@ -73,17 +73,17 @@ speed() {
     speed_test '4285'  'Rostelecom|Stav'
     speed_test '14584' 'LLC SET   |Stav'
     speed_test '33567' 'Молния    |Stav'
-
+	
     # Пятигорск
-    speed_test '25192' 'Beeline|Ptg'
-    speed_test '41732' 'OOO 5COM|Ptg'
-    speed_test '1644'  'POST Ltd|Ptg'
+    speed_test '25192' 'Beeline   |Ptg'
+    speed_test '41732' 'OOO 5COM  |Ptg'
+    speed_test '1644'  'POST Ltd  |Ptg'
 
     # Светлоград
-    speed_test '54816' 'AdoptLTD|Svet'
+    speed_test '54816' 'AdoptLTD  |Svet'
 
     # Георгиевск
-    speed_test '41062' 'MaxTLC|Geo'
+    speed_test '41062' 'MaxTLC    |Geo'
 }
 
 io_test() {
